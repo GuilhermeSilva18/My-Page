@@ -1,4 +1,391 @@
-html, body {
-  height: 100%;
-  width: 100%;
+/*Código de importação da fonte Roboto Flex do Google Fonts  */
+@import url('https://fonts.googleapis.com/css2? family= Roboto+Flex:opsz@8..144 & family= Roboto:ital,wght@0,100;1,100;1,300 & display=swap ');
+
+/*Personalização da página */
+body{
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto Flex', sans-serif;
 }
+
+/*Estilização da lista de contatos  pessoais*/
+.Contatos{
+  display: inline-block;
+  margin: 0px 10px 0 10px; 
+}
+
+/*Estilização da imagem de cabeçalho  */
+#ImgHeader{ 
+  height: 30vh;
+  width: 100vw; 
+  object-fit: cover;
+  padding: 0px;
+}
+
+/*Menu Horizontal de navegação  */
+#MenuH{
+  list-style-type: none;
+  padding: 0;
+  background-color: rgb(3, 18, 33);
+  text-align: center;
+  border:1px solid black;
+  box-shadow: 3px 8px 10px grey;
+  margin: 0px;
+  
+}
+#MenuH li {
+  display: inline;
+}
+
+/*Estilização das tags ancoras do menu  */
+#MenuH li a{
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 10px;
+  
+}
+
+/*Estilização da cor da fonte ao passar o percursos do mouse  */
+#MenuH li a:hover{
+  color: #090033;
+  background-color: #ffffff ;
+}
+/*--------------------------------------------------------------  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
